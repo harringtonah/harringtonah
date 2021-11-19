@@ -6,7 +6,7 @@ I am primarily an evolutionary biologist and fungal taxonomist specializing in m
 - Preserving voucher specimens from ecological studies.
 - Generating barcode sequence data from expertly-identified fungal specimens.
 - Improving reference databases and being cautious when using barcode sequence data alone to identify or classify fungal sequences. 
-- Investing in and valuing traditional taxonomic methods.
+- Investing in and valuing traditional taxonomic approaches.
 - Being overwhelmed by the scale of unknown diversity in the Pezizomycotina.
 
 
