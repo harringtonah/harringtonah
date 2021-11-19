@@ -2,7 +2,7 @@
 
 I am primarily an evolutionary biologist and fungal taxonomist specializing in microbial ascomycetes, but I use data and tools derived from molecular ecology to guide this work. My overal goal is to better integrate fungal taxonomy and molecular ecology in order to improve the understanding of microfungal diversity, evolution, and ecological roles. 
 
-#### Things I care about and think about a lot:
+#### Things I care about and think about often:
 - Preserving voucher specimens from ecological studies.
 - Generating barcode sequence data from expertly-identified fungal specimens.
 - Improving reference databases and being cautious when using barcode sequence data alone to identify or classify fungal sequences. 
