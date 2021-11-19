@@ -1,6 +1,6 @@
 ### Hello! I'm Alison, a PhD candidate in Ecology & Evolutionary Biology at the University of Arizona, working with [Betsy Arnold](http://www.arnoldlab.net/).
 
-I am primarily an evolutionary biologist and fungal taxonomist specializing in microbial ascomycetes, but I use data and tools derived from molecular ecology to guide this work. My overal goal is to better integrate fungal taxonomy and molecular ecology in order to improve the understanding of microfungal diversity, evolution, and ecological roles. 
+I am primarily an evolutionary biologist and fungal taxonomist specializing in microbial ascomycetes, but I use data and tools derived from molecular ecology to guide this work. My overall goal is to better integrate fungal taxonomy and molecular ecology in order to improve the understanding of microfungal diversity, evolution, and ecological roles. 
 
 #### Things I care about and think about often:
 - Preserving voucher specimens from ecological studies.
