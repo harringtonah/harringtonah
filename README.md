@@ -1,4 +1,4 @@
-### Hello! I'm Alison, Collection Manager of Fungi at the Herbarium at the University of Michingan.
+### Hello! I'm Alison, Collection Manager of Fungi at the [Herbarium](https://lsa.umich.edu/herbarium) of the University of Michigan in Ann Arbor (MICH).
 
 I am primarily an evolutionary biologist and fungal taxonomist specializing in microbial ascomycetes, but I use data and tools derived from molecular ecology to guide this work. My overall goal is to better integrate fungal taxonomy and molecular ecology in order to improve the understanding of microfungal diversity, evolution, and ecological roles. PhD (2021) in Ecology & Evolutionary Biology from the University of Arizona, where I worked with [Betsy Arnold](http://www.arnoldlab.net/).
 
