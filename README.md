@@ -19,6 +19,5 @@ You can view my CV [here.](https://docs.google.com/document/d/1uLbKZvMkJv2Q39bbC
 [Google Scholar](https://scholar.google.com/citations?user=rhBOcpQAAAAJ&hl=en) / 
 [ResearchGate](https://www.researchgate.net/profile/Alison_Harrington2)
 
-University of Michigan Herbarium (MICH) | Research Museums Center
-3600 Varsity Drive #1048 | Ann Arbor, MI 48108-2228
+University of Michigan Herbarium (MICH) | Research Museums Center | 3600 Varsity Drive #1048 | Ann Arbor, MI 48108-2228
 alisonhh@umich.edu | 734.936.8028
